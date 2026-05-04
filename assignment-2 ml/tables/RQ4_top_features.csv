@@ -1,0 +1,5 @@
+Feature,Importance,Interpretation
+lag1,0.9975924215933357,Previous price strongly influences next price
+SMA,0.0015101966024477353,Moving average captures trend
+lag2,0.0008855094430640315,Short-term trend continuation
+Volatility,1.1872361152461683e-05,Market fluctuation indicator

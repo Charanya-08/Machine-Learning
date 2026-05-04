@@ -1,0 +1,3 @@
+Model,Performance,Interpretability,Robustness,Speed,Final Score
+Linear Regression,3,5,3,5,4.0
+Random Forest,4,3,4,4,3.75
